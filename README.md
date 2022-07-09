@@ -3,12 +3,13 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=doragd.doragd)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-- ⚡ News: Proud to be an R&D intern of DianPing Group of Meituan, responsible for the relevance of the search engine.
+- ⚡ News: Fighting for seeking for new jobs.
 - 🌱 I’m currently learning NLP.
 - 📫 How to reach me: [Gmail](mailto:guodun.li@gmail.com) | [ZhiHu](https://www.zhihu.com/people/gordon-lee)
 - ⚡ Fun fact: Love [animation](https://space.bilibili.com/37310586/bangumi), [coding](https://github.com/doragd), and all good things in my life.
 - 🌾 Experiences: 
-    - Research Intern of MinD (Machine IntelligeNce of Damo) Lab, Alibaba (from 2021-07 to 2022).
+    - Research Intern of MinD (Machine IntelligeNce of Damo) Lab, Alibaba (from 2021-07 to 2022-04).
+    - R&D intern of DianPing Group of Meituan, responsible for the relevance of the search engine (from 2022-05 to 2022-07). 
 - 🙈 Publications: 
     - [[ACMMM2021] Similar Scenes Arouse Similar Emotions: Parallel Data Augmentation for Stylized Image Captioning](https://dl.acm.org/doi/10.1145/3474085.3475662)
 - 📝 Writing in PaperWeekly: 
