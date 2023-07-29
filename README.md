@@ -8,7 +8,8 @@
 - 🙈 Publications: 
     - [[COLING2022] Continual Few-shot Intent Detection](https://aclanthology.org/2022.coling-1.26)
     - [[ACMMM2021] Similar Scenes Arouse Similar Emotions: Parallel Data Augmentation for Stylized Image Captioning](https://dl.acm.org/doi/10.1145/3474085.3475662)
-- 🌾 Experiences: 
+- 🌾 Experiences:
+    - R&D of ByteDance (TikTok E-Commerce Search) <img src="https://cdn.jsdelivr.net/gh/doragd/doragd/imgs/bytedance_logo.svg" style="width: 4em;">, responsible for the matching algorithm of the search engine (from 2023-02 to now). 
     - R&D intern of Meituan (DianPing) <img src="https://cdn.jsdelivr.net/gh/doragd/doragd/imgs/meituan_logo.svg" style="width: 4em;">, responsible for the relevance of the search engine (from 2022-05 to 2022-07). 
     - Research Intern of Alibaba (DAMO Academy) <img src="https://cdn.jsdelivr.net/gh/doragd/doragd/imgs/alibaba_logo.svg" style="width: 4em;"> (from 2021-07 to 2022-04).
 - 📝 Writing in PaperWeekly: 
