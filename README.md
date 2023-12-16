@@ -32,9 +32,3 @@
 - 🌼 [Algorithm-Practice-in-Industry](https://github.com/Doragd/Algorithm-Practice-in-Industry) : ![star](https://img.shields.io/github/stars/Doragd/Algorithm-Practice-in-Industry?label=%E2%AD%90%20Star&labelColor=%23C3E2C2&color=%23FFC0D9) ![status](https://img.shields.io/badge/%F0%9F%9A%A7%20Being%20Maintained-EEF296)
 - 🌼 [AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector): ![star](https://img.shields.io/github/stars/MLNLP-World/AI-Paper-Collector?label=%E2%AD%90%20Star&labelColor=%23C3E2C2&color=%23FFC0D9) ![status](https://img.shields.io/badge/%F0%9F%9A%A7%20Being%20Maintained-EEF296)
 - 🌼 [Chinese-Chatbot-PyTorch-Implementation](https://github.com/Doragd/Chinese-Chatbot-PyTorch-Implementation): ![star](https://img.shields.io/github/stars/Doragd/Chinese-Chatbot-PyTorch-Implementation?label=%E2%AD%90%20Star&labelColor=%23C3E2C2&color=%23FFC0D9) ![status](https://img.shields.io/badge/%F0%9F%97%84%EF%B8%8F%20Archived-AFC8AD)
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/doragd">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=doragd&theme=nightowl&show_icons=true" />
-</a>
