@@ -27,17 +27,14 @@
     - [nlp中的prompt learning 有哪些可能的天生的缺陷？目前有什么样的方法来解决这样的缺陷？83 stars](https://www.zhihu.com/question/508658141/answer/2298447936)
     - [自监督学习研究为什么纠结于负样本? 137 stars](https://www.zhihu.com/question/481582082/answer/2296670617)
     - [基于对比学习(Contrastive Learning)的文本表示模型【为什么】能学到语义【相似】度？46 stars](https://www.zhihu.com/question/480187938/answer/2095359870)
-    
-## &#x1f4c8; GitHub Stats & 🗂️ Highlight Projects
+
+## 🗂️ Highlight Projects
+- 🌼 [Algorithm-Practice-in-Industry](https://github.com/Doragd/Algorithm-Practice-in-Industry) : ![star](https://img.shields.io/github/stars/Doragd/Algorithm-Practice-in-Industry?label=%E2%AD%90%20Star&labelColor=%23C3E2C2&color=%23FFC0D9) ![status](https://img.shields.io/badge/%F0%9F%9A%A7%20Being%20Maintained-EEF296)
+- 🌼 [AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector): ![star](https://img.shields.io/github/stars/MLNLP-World/AI-Paper-Collector?label=%E2%AD%90%20Star&labelColor=%23C3E2C2&color=%23FFC0D9) ![status](https://img.shields.io/badge/%F0%9F%9A%A7%20Being%20Maintained-EEF296)
+- 🌼 [Chinese-Chatbot-PyTorch-Implementation](https://github.com/Doragd/Chinese-Chatbot-PyTorch-Implementation): ![star](https://img.shields.io/github/stars/Doragd/Chinese-Chatbot-PyTorch-Implementation?label=%E2%AD%90%20Star&labelColor=%23C3E2C2&color=%23FFC0D9) ![status](https://img.shields.io/badge/%F0%9F%97%84%EF%B8%8F%20Archived-AFC8AD)
+
+## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/doragd">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=doragd&theme=nightowl&show_icons=true" />
-</a>
-
-<!-- <a href="https://github.com/doragd">
-    <img width="47.27%" src="https://github-readme-stats.vercel.app/api/pin/?username=doragd&repo=Chinese-Chatbot-PyTorch-Implementation&theme=tokyonight&show_icons=true" />
-</a> -->
-
-<a href="https://github.com/doragd">
-    <img width="51.85%" height="166px" src="https://github-readme-stats.vercel.app/api/pin/?username=MLNLP-World&repo=AI-Paper-collector&theme=tokyonight&show_icons=true" />
 </a>
