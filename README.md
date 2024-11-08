@@ -9,7 +9,7 @@
 - ⚡ Fun fact: Love <img src="https://cdn.jsdelivr.net/gh/doragd/doragd/imgs/bilibili_logo.svg" style="width: 2em;"> [animation](https://space.bilibili.com/37310586/bangumi), <img src="https://cdn.jsdelivr.net/gh/doragd/doragd/imgs/github_logo.svg" style="width: 1em;"> [coding](https://github.com/doragd), and all good things in my life.
 - 📝 Paper Reading Notes: [![PaperReading](https://img.shields.io/github/issues/doragd/paperreading?style=flat&label=%F0%9F%8C%B8%20Paper%20Record&labelColor=%20%236DB9EF&color=%23FF90BC&link=https%3A%2F%2Fgithub.com%2Fdoragd%2Fpaperreading
 )](https://github.com/doragd/paperreading)
-- 🙈 Publications: 
+- 🙈 Publications: [🎓 See More at Google Scholar.](https://scholar.google.com/citations?user=LJSfS5MAAAAJ&hl=en)
     - [[COLING2022] Continual Few-shot Intent Detection](https://aclanthology.org/2022.coling-1.26)
     - [[ACMMM2021] Similar Scenes Arouse Similar Emotions: Parallel Data Augmentation for Stylized Image Captioning](https://dl.acm.org/doi/10.1145/3474085.3475662)
 - 🌾 Experiences:
